@@ -98,6 +98,9 @@ I'm always excited to collaborate on AI/ML projects, discuss innovative ideas, o
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/benedictus-ryu-gunawan-644238374/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/benedictus.ryu)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/benedictusryugunawan)
+[![TLX](https://img.shields.io/badge/TLX-FF6B35?style=for-the-badge&logo=code&logoColor=white)](https://tlx.toki.id/profiles/Ryu_2804)
+[![Eolymp](https://img.shields.io/badge/Eolymp-4A90E2?style=for-the-badge&logo=trophy&logoColor=white)](https://basecamp.eolymp.com/en/users/Ryu2804)
 
 </div>
 
