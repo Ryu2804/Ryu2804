@@ -35,8 +35,6 @@ Currently at an **intermediate level** in Machine Learning, but hungry to push b
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -48,12 +46,12 @@ Currently at an **intermediate level** in Machine Learning, but hungry to push b
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyZ&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyZ&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryu2804&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryu2804&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyZ&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryu2804&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165">
 </div>
 
 ---
@@ -61,7 +59,7 @@ Currently at an **intermediate level** in Machine Learning, but hungry to push b
 ## 🏆 Achievement Showcase
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RyZ&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ryu2804&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies">
 </div>
 
 ---
@@ -110,7 +108,7 @@ I'm always excited to collaborate on AI/ML projects, discuss innovative ideas, o
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyZ&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Ryu2804&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 </div>
 
 ---
