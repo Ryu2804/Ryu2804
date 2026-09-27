@@ -1,4 +1,4 @@
-# Hey there! I'm Benedictus Ryu Gunawan 👋
+# Hey there! I'm Benedictus Ryu Gunawan
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%40+ITS;Machine+Learning+Enthusiast;Competitive+Programming+Explorer;Building+Tomorrow's+Intelligence" alt="Typing SVG" />
