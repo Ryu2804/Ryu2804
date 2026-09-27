@@ -4,23 +4,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineering+Student+%40+ITS;Machine+Learning+Enthusiast;Competitive+Programming+Explorer;Building+Tomorrow's+Intelligence" alt="Typing SVG" />
 </div>
 
-## 🚀 About My Journey
+## About Me
 
 I'm currently pursuing **Artificial Intelligence Engineering** at **Sepuluh Nopember Institute of Technology (ITS)**, where I'm diving deep into the fascinating world of algorithms that think, learn, and solve real-world problems.
 
-**What drives me:**
-- 🧠 **Passion for AI/ML**: Fascinated by how data transforms into intelligent decisions
-- 🎯 **Problem-Solving**: Sharpening my algorithmic thinking through competitive programming
-- 📈 **Continuous Learning**: Always adapting to the fast-evolving tech landscape
-- 🌟 **Innovation Mindset**: Excited to contribute to the AI revolution
-
-Currently at an **intermediate level** in Machine Learning, but hungry to push boundaries and explore cutting-edge technologies that shape our digital future.
-
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
-### 🤖 AI & Data Science
+### AI & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -28,7 +20,7 @@ Currently at an **intermediate level** in Machine Learning, but hungry to push b
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 💻 Programming & Development
+### Programming & Development
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-0081CB?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -44,7 +36,7 @@ Currently at an **intermediate level** in Machine Learning, but hungry to push b
 
 ---
 
-## 🌟 Current Focus
+## Current Focus
 
 ```python
 class BenedictusRyu:
@@ -65,12 +57,12 @@ class BenedictusRyu:
         ]
     
     def get_daily_routine(self):
-        return "Code → Learn → Solve → Repeat 🔄"
+        return "Code → Learn → Solve → Repeat"
 ```
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always excited to collaborate on AI/ML projects, discuss innovative ideas, or just chat about the future of technology!
 
